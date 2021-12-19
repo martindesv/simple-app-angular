@@ -1,3 +1,5 @@
-# simple-app-angular (work in progress)
+# simple-app-angular
 
-This is front-end part of the simple-app-spring repository.
+Work in progress.
+
+This is the front-end part of the simple-app-spring repository.
